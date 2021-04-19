@@ -1,0 +1,22 @@
+#home .home-content h1{
+    font-family: 'Playfair Display';
+    font-size: 24px;
+}
+#home .home-content p{
+    font-size:20px;
+    padding:10px 35px;
+}
+#home .home-content .nav ul li{
+    padding:15px 14px;
+}
+#home .home-content .nav ul li a{
+    font-size: 15px;
+    padding:0px;
+}
+.aoi-container .aoi-heading{
+    font-size: 16px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 10px;
+    margin: 8px 0 12px 0 ;
+}
